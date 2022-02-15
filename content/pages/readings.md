@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1b5557de-ff27-e06c-581c-810780056c04
 ---
@@ -69,7 +72,7 @@ Windtrobe, M. M., and C. M. Huguley. "[Nitrogen–Mustard Therapy for Hodgkin's 
 {{< tdopen >}}
 
 
-Direct Repair: Levels of _O_6–methylguanine–DNA methyltransferase (MGMT) as a potential predictor of response to alkylation–based chemotherapeutics
+Direct Repair: Levels of _O_{{< sup "6" >}}–methylguanine–DNA methyltransferase (MGMT) as a potential predictor of response to alkylation–based chemotherapeutics
 
 [See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#A_DNA_repair_strategy)
 

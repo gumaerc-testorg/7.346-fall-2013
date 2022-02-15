@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5ef19639-8e4e-b386-4d75-8f7a7e5a7bcb
 ---
@@ -89,7 +91,7 @@ Alkylating agents: How chemical warfare became medicine
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Direct Repair: Levels of O6\-methylguanine-DNA methyltransferase (MGMT) as a potential predictor of response to alkylation-based chemotherapeutics
+Direct Repair: Levels of O{{< sup "6" >}}\-methylguanine-DNA methyltransferase (MGMT) as a potential predictor of response to alkylation-based chemotherapeutics
 {{< tdclose >}}
 {{< tdopen >}}
  
