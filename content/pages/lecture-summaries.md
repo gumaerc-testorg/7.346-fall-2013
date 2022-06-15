@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains lecture summaries for each week of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -296,7 +297,7 @@ Students Oral Presentation Assignments
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< anchor "We_will_hear_15-minute" >}}{{< /anchor >}}Students present 15-minute papers as described in the [assignments]({{< baseurl >}}/pages/assignments) section, and a final discussion evaluating the course is held
+{{< anchor "We_will_hear_15-minute" >}}{{< /anchor >}}Students present 15-minute papers as described in the {{% resource_link 6aa7b413-d392-d5e5-e2aa-5977607ac21b "assignments" %}} section, and a final discussion evaluating the course is held
 {{< tdclose >}}
 
 {{< trclose >}}

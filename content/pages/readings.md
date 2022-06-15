@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction & Overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_instructors_and_students)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#The_instructors_and_students" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ No Readings
 
 Alkylating agents: How chemical warfare became medicine
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_history_of_modern)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#The_history_of_modern" %}}
 
 
 {{< tdclose >}}
@@ -74,7 +76,7 @@ Windtrobe, M. M., and C. M. Huguley. "[Nitrogen–Mustard Therapy for Hodgkin's 
 
 Direct Repair: Levels of _O_{{< sup "6" >}}–methylguanine–DNA methyltransferase (MGMT) as a potential predictor of response to alkylation–based chemotherapeutics
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#A_DNA_repair_strategy)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#A_DNA_repair_strategy" %}}
 
 
 {{< tdclose >}}
@@ -98,7 +100,7 @@ Kitange, Gaspar J., Brett L. Carlson, et al. "[Induction of MGMT Expression is A
 
 Mismatch Repair: A guardian against replication errors
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_mismatch_repair__MMR)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#The_mismatch_repair__MMR" %}}
 
 
 {{< tdclose >}}
@@ -122,7 +124,7 @@ Stojic, Lovorka, Nina Mojas, et al. "[Mismatch Repair–Dependent G2 Checkpoint 
 
 Mutations and Epigenetics: Multiple means by which inactivation of the mismatch repair pathway complicates the treatment of cancer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Predisposition_to_hereditary_nonpolyposis)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#Predisposition_to_hereditary_nonpolyposis" %}}
 
 
 {{< tdclose >}}
@@ -146,7 +148,7 @@ Li, Feng, Guogen Mao, et al. "[The Histone Mark H3K36me3 Regulates Human DNA Mis
 
 Base Excision Repair: Intermediate threat to genomic stability
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Base_excision_repair__BER)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#Base_excision_repair__BER" %}}
 
 
 {{< tdclose >}}
@@ -170,7 +172,7 @@ Lauritzen, Knut H., Olve Moldestad, et al. "[Mitochondrial DNA Toxicity in Foreb
 
 Base Excision Repair: The GO system limits mutagenesis by oxidative damage
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_major_base_lesion)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#The_major_base_lesion" %}}
 
 
 {{< tdclose >}}
@@ -194,7 +196,7 @@ Oka, Sugako, Mizuki Ohno, et al. "[Two Distinct Pathways of Cell Death Triggered
 
 Field Trip to Blueprint Medicines
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Blueprint_Medicines_is_a)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#Blueprint_Medicines_is_a" %}}
 
 
 {{< tdclose >}}
@@ -212,7 +214,7 @@ No Readings
 
 16,568 base pairs: Mitochondrial DNA repair mechanisms and the deadly consequences of failing to maintain the mitochondrial genome
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#While_greater_than_99)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#While_greater_than_99" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ Chan, Sherine S. L., Matthew J. Longley, et al. "[The Common A467T Mutation in t
 
 Extreme sun–sensitivity: Nucleotide excision repair defects in xeroderma pigmentosum patients
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anyone_who_has_a)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#Anyone_who_has_a" %}}
 
 
 {{< tdclose >}}
@@ -260,7 +262,7 @@ Li, Chunying, Ming Yin, et al. "Polymorphisms of Nucleotide Excision Repair Gene
 
 Unwinding less: Depletion of Werner helicase activity as both a cause and a treatment of disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Double_-strand_breaks_are)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#Double_-strand_breaks_are" %}}
 
 
 {{< tdclose >}}
@@ -284,7 +286,7 @@ Aggarwal, Monika, Joshua A. Sommers, et al. "[Inhibition of Helicase Activity By
 
 Stem cells: DNA damage and differentiation, do they mix?
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Stem_cells_are_distinguished)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#Stem_cells_are_distinguished" %}}
 
 
 {{< tdclose >}}
@@ -308,7 +310,7 @@ Guo, F., J. Li, et al. "[MTOR Regulates DNA Damage Response through NF–κB–M
 
 Students Oral Presentation Assignments
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#We_will_hear_15-minute)
+{{% resource_link f2861410-e48f-0f01-9da4-4ed9e63f74ce "See the Lecture Summary" "#We_will_hear_15-minute" %}}
 
 
 {{< tdclose >}}
