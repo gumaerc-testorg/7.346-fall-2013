@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, format, goals, and the schedule of lecture topics
+  and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5ef19639-8e4e-b386-4d75-8f7a7e5a7bcb
 ---
@@ -14,13 +19,13 @@ Prerequisites
 
 Recommended prerequisites are:
 
-_7.03_ [_Genetics_](/courses/7-03-genetics-fall-2004/)
+_7.03_ [_Genetics_](/courses/7-03-genetics-fall-2004)
 
 _7.05 General Biochemistry_
 
-_7.06_ [_Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+_7.06_ [_Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
-_7.28_ [_Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+_7.28_ [_Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 Course Description
 ------------------
@@ -89,7 +94,7 @@ Alkylating agents: How chemical warfare became medicine
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Direct Repair: Levels of O6\-methylguanine-DNA methyltransferase (MGMT) as a potential predictor of response to alkylation-based chemotherapeutics
+Direct Repair: Levels of O{{< sup "6" >}}\-methylguanine-DNA methyltransferase (MGMT) as a potential predictor of response to alkylation-based chemotherapeutics
 {{< tdclose >}}
 {{< tdopen >}}
  

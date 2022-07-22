@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains lecture summaries for each week of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: f2861410-e48f-0f01-9da4-4ed9e63f74ce
 ---
@@ -7,7 +11,7 @@ uid: f2861410-e48f-0f01-9da4-4ed9e63f74ce
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 WEEK # 
 {{< thclose >}}
 {{< thopen >}}
@@ -18,7 +22,7 @@ LECTURE SUMMARIES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 1   
  
 {{< tdclose >}}
@@ -34,7 +38,7 @@ Introduction & Overview
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 2   
  
 {{< tdclose >}}
@@ -58,12 +62,12 @@ Therefore, scientists who were searching for chemicals that could be used to inh
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 3   
  
 {{< tdclose >}}
 {{< tdopen >}}
-Direct Repair: Levels of _O_6\-methylguanine-DNA methyltransferase (MGMT) as a potential predictor of response to alkylation-based chemotherapeutics
+Direct Repair: Levels of _O_{{< sup "6" >}}\-methylguanine-DNA methyltransferase (MGMT) as a potential predictor of response to alkylation-based chemotherapeutics
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,16 +75,16 @@ Direct Repair: Levels of _O_6\-methylguanine-DNA methyltransferase (MGMT) as a p
 {{< tdopen >}}
 
 
-{{< anchor "A_DNA_repair_strategy" >}}{{< /anchor >}}A DNA repair strategy that is often overlooked is direct reversal, whereby damaged DNA bases can be reverted back to the normal base without the requirement for multiple enzymatic steps that create intermediates or generate DNA strand breaks. The repair protein _O_6\-methylguanine-DNA methyltransferase (MGMT) functions to directly repair alkyl adducts at the _O_6 position of guanine and to a lesser extent the _O_4 position of thymine. MGMT irreversibly transfers the alkyl group onto a cysteine residue in its active site in a "suicide" reaction, which causes a conformational change in the protein that targets it for ubiquitin-mediated degradation.
+{{< anchor "A_DNA_repair_strategy" >}}{{< /anchor >}}A DNA repair strategy that is often overlooked is direct reversal, whereby damaged DNA bases can be reverted back to the normal base without the requirement for multiple enzymatic steps that create intermediates or generate DNA strand breaks. The repair protein _O_{{< sup "6" >}}\-methylguanine-DNA methyltransferase (MGMT) functions to directly repair alkyl adducts at the _O_{{< sup "6" >}} position of guanine and to a lesser extent the _O_{{< sup "4" >}} position of thymine. MGMT irreversibly transfers the alkyl group onto a cysteine residue in its active site in a "suicide" reaction, which causes a conformational change in the protein that targets it for ubiquitin-mediated degradation.
 
-This week, we will explore how the levels of MGMT in a cell influence its response to alkylation-based chemotherapeutic agents and whether MGMT status can be used as a predictor of patient response. The first paper examines how modulation of MGMT expression in a mouse model alters the response to alkylation-induced damage at the whole-animal and tissue-specific levels. The second paper explores how MGMT expression in tumors of patients with glioblastoma multiforme influences the response to treatment with the mono-alkylating agent temozolomide, the toxicity of which is mediated by the formation of _O_6\-methylguanine lesions in DNA.
+This week, we will explore how the levels of MGMT in a cell influence its response to alkylation-based chemotherapeutic agents and whether MGMT status can be used as a predictor of patient response. The first paper examines how modulation of MGMT expression in a mouse model alters the response to alkylation-induced damage at the whole-animal and tissue-specific levels. The second paper explores how MGMT expression in tumors of patients with glioblastoma multiforme influences the response to treatment with the mono-alkylating agent temozolomide, the toxicity of which is mediated by the formation of _O_{{< sup "6" >}}\-methylguanine lesions in DNA.
 
 
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 4   
  
 {{< tdclose >}}
@@ -95,14 +99,14 @@ Mismatch Repair: A guardian against replication errors
 
 {{< anchor "The_mismatch_repair__MMR" >}}{{< /anchor >}}The mismatch repair (MMR) pathway primarily functions to increase the fidelity of DNA replication by correcting errors (such as mispaired bases and short insertions or deletions) that occur during DNA synthesis and escape proofreading, in which an incorrect base is recognized and excised by the exonuclease activity of the replicative polymerase so the correct base can be re-inserted. In the simplest terms, initiation of mismatch repair requires the recognition and binding of base/base mismatches or 1–2 nt insertions/deletions by MutSα (MSH2/MSH6 heterodimer). MutSα recognition serves to recruit components of the excision machinery, including MutLα (MLH1/PMS2 heterodimer), the processivity factor proliferating cell nuclear antigen, or PCNA, and EXO1 exonuclease which load onto the DNA at a preexisting nick and degrade it past the mispaired region. Repair synthesis of the degraded strand by a high-fidelity polymerase followed by DNA ligation completes the repair. Interestingly, the status of the MMR pathway plays a role in both cancer susceptibility and biological outcomes following chemotherapeutic treatments.
 
-The first paper is an early study that derives a model for mismatch repair in yeast through analyzing the _in vitro_ interactions among purified MSH2, MLH1 and PMS1 and DNA. The second paper explores the relationship between the status of the mismatch repair pathway in cells and sensitivity to the cytotoxic _O_6\-methylguanine lesions induced by the prototypical alkylating agent MNNG or the alkylation-based chemotherapeutic agent TMZ. This study begins to explore the highly coordinated effort between the MMR and DNA damage response pathways to stimulate cell cycle checkpoints and repair or programmed cell death in response to alkylation-induced damage.
+The first paper is an early study that derives a model for mismatch repair in yeast through analyzing the _in vitro_ interactions among purified MSH2, MLH1 and PMS1 and DNA. The second paper explores the relationship between the status of the mismatch repair pathway in cells and sensitivity to the cytotoxic _O_{{< sup "6" >}}\-methylguanine lesions induced by the prototypical alkylating agent MNNG or the alkylation-based chemotherapeutic agent TMZ. This study begins to explore the highly coordinated effort between the MMR and DNA damage response pathways to stimulate cell cycle checkpoints and repair or programmed cell death in response to alkylation-induced damage.
 
 
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 5   
  
 {{< tdclose >}}
@@ -126,7 +130,7 @@ The second paper addresses how chromatin remodeling might contribute to mismatch
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 6   
  
 {{< tdclose >}}
@@ -150,7 +154,7 @@ The first paper uses mouse genetic experiments to address how expression of the 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 7   
  
 {{< tdclose >}}
@@ -172,7 +176,7 @@ Recent studies have identified mutations in MUTYH within colorectal carcinoma pa
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 8   
  
 {{< tdclose >}}
@@ -194,7 +198,7 @@ While the majority of cancer drugs used in the clinic function by damaging DNA t
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 9   
  
 {{< tdclose >}}
@@ -216,7 +220,7 @@ In the first paper, we will learn about how cells respond to mitochondrial DNA d
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 10   
  
 {{< tdclose >}}
@@ -238,7 +242,7 @@ Cells are equipped with a DNA repair pathway known as nucleotide excision repair
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 11   
  
 {{< tdclose >}}
@@ -260,7 +264,7 @@ Double-strand break repair involves numerous proteins that play important roles 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 12   
  
 {{< tdclose >}}
@@ -282,7 +286,7 @@ A second intriguing question is whether there are particular consequences for hu
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdopen colspan="2" rowspan="2" >}}
 13   
  
 {{< tdclose >}}
@@ -293,7 +297,7 @@ Students Oral Presentation Assignments
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< anchor "We_will_hear_15-minute" >}}{{< /anchor >}}Students present 15-minute papers as described in the [assignments]({{< baseurl >}}/pages/assignments) section, and a final discussion evaluating the course is held
+{{< anchor "We_will_hear_15-minute" >}}{{< /anchor >}}Students present 15-minute papers as described in the {{% resource_link 6aa7b413-d392-d5e5-e2aa-5977607ac21b "assignments" %}} section, and a final discussion evaluating the course is held
 {{< tdclose >}}
 
 {{< trclose >}}
