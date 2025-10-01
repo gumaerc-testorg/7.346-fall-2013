@@ -157,7 +157,7 @@ Base Excision Repair: The GO system limits mutagenesis by oxidative damage
 Field Trip to Blueprint Medicines
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip to [Blueprint Medicines](http://www.blueprintmedicines.com/)
+Field Trip to {{% resource_link "648e84a2-7772-4100-9249-81ae4ebed95f" "Blueprint Medicines" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
